@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.header{
+	height: 100vh;
+
+}
+
+.navbar-style{
+	box-shadow: 0 5px 10px #66e0ff;
+}
+
+.logo{
+	height: 50px;
+	padding:2px 10px;
+}
+
+.icon-bar{
+	background:black;
+}
+
+li a{
+	color: black;
+}
+
+h3{
+	color:blue;
+}
+
+.table {
+   display: block !important;
+}
+
+#gh{
+	background-color: lightgray;
+}
+
+#ijk{
+	float: right;
+}

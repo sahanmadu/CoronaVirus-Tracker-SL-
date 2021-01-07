@@ -3,6 +3,11 @@
 	padding: 0;
 }
 
+body{
+	background-color: black;
+	color: white;
+}
+
 .header{
 	height: 100vh;
 
@@ -15,14 +20,15 @@
 .logo{
 	height: 50px;
 	padding:2px 10px;
+	
 }
 
 .icon-bar{
-	background:black;
+	background:white;
 }
 
 li a{
-	color: black;
+	color:white;
 }
 
 h3{
@@ -34,9 +40,35 @@ h3{
 }
 
 #gh{
-	background-color: lightgray;
+	background-color: black;
 }
 
 #ijk{
 	float: right;
+}
+
+#cases{
+	color: red;
+	font-weight: bold;
+}
+
+#acases{
+	color:white;
+	font-weight: bold;
+}
+
+#recovered{
+	color:white;
+	font-weight: bold;
+}
+
+#deaths{
+	color:white;
+	font-weight: bold;
+}
+
+
+table th{
+	color:royalblue;
+	font-weight: bold;
 }
